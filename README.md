@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me: Hi there 👋, This is Aditya Khare...
-  <img align="right" src="gif/giphy.gif" style="width:35%; height:200px">
+  <img align="right" src="gif/giphy.gif" style="width:150%; height:250px">
   -🔭 I’m currently working on my skills<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about Java, JavaScript, HTML, CSS<br><br>- 📫 How to reach me aditya.khr1904@gmail.com<br><br>
 
 
