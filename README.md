@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋, This is Aditya Khare...
   <img align="right" src="gif/giphy.gif" style="width:150%; height:250px">
-  -🔭 I’m currently working on my skills<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about Java, JavaScript, HTML, CSS<br><br>- 📫 How to reach me <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjmrvqGcJjkdKhdLvngQJKXhDhBVFPwsFcnCHLJQVvNqrpFfLvGdXMCbVMcKngMMxFlq">aditya.khr1904@gmail.com</a> <br><br>- 📘 <a href="https://adityakhr.github.io/">Portfolio</a><br>
+  -🔭 I’m currently working on my skills<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about Java, JavaScript, HTML, CSS<br><br>- 📫 How to reach me **Aditya.khr1904@gmail.com** 
+  <br><br>- 📘 <a href="https://adityakhr.github.io/">Portfolio</a><br><br>- 📑 <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">Resume</a><br><br>
 
 
 # 🌐 Socials:
