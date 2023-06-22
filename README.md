@@ -34,18 +34,34 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br><br> -->
+<br><br>
+<div align="center" style="display: flex; gap:50px">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+
+</div>
+<br><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakhr" alt="adityakhr" /></a> </p>
+
 
 <h2 align="center">⚡Contribution Graph</h2>
   <a><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakhr&theme=react-dark" /></a>
 
 <br> 
 
+<br>
+<h2 align="center"> ✍️ Quote</h2>
+<br>
+  <a><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
+<br> 
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 
