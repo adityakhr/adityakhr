@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br>
 <h2 align="center"> ✍️ Quote</h2>
 <br>
-  <a><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
+  <a style="text-align: center;"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
 <br> 
 
 
