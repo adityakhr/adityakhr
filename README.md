@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center" color:"teal">
      <a>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! This is Aditya Khare ; A Java%20Backend%20Developer ; Interested in Coding and DSA...&font=Fira%20Code&center=true&width=440&height=45&color=teal&vCenter=true&size=22&pause=1000"></a>
+<!--           <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! This is Aditya Khare ; A Java%20Backend%20Developer ; Interested in Coding and DSA...&font=Fira%20Code&center=true&width=440&height=45&color=teal&vCenter=true&size=22&pause=1000"></a> -->
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hello there! This is Aditya Khare ; A Java%20Backend%20Developer &font=Fira%20Code&center=true&width=440&height=45&color=teal&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
