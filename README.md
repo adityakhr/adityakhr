@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br><br> -->
 <br><br>
-<div align="center" style="display: flex; gap:50px">
+<div style="display: flex; justify-content:center; align-items: center;">
 
 <img style="width:40%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
 
-<img style="width:25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+<img style="width:23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 <img style="width:35%" src="https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 
