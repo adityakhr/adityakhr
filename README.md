@@ -55,17 +55,11 @@ Here are some ideas to get you started:
   <a><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakhr&theme=react-dark" /></a>
 
 <br> 
-
+ <h2 align="center"> ✍️ Quote</h2>
+ <br>
+ <a><img  style="text-align: center;"alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
 <br>
-<h2 align="center"> ✍️ Quote</h2>
-<br>
-  <a style="text-align: center;"><img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
-<br> 
-
-
----
-
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adityakhr}/count.svg" /></p> 
-<br></div>
+</div>
