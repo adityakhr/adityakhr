@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 <!--![](https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br><br> -->
-<div style="display: flex; flex-wrap:wrap; justify-content:center; align-items:center;">
+<div style="display: flex; flex-wrap:wrap;">
 
-<img style="width:300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
+<img style="width:320px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
 
 <img style="width:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
-<img style="width:280px;" src="https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+<img style="width:300px;" src="https://github-readme-stats.vercel.app/api?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakhr" alt="adityakhr" /></a> </p>
