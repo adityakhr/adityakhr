@@ -28,34 +28,37 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">  
-     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>  
+     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" /></a>  
 </div>
 
 
  
  <h2 align="center">💻 Tech Stack</h2>
-<div align="center">  
-     <img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="30" />
+<div align="center"> 
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="40" />
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="40"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" height="30"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="40"/>
         &nbsp;&nbsp;
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="40"/>
+        &nbsp;&nbsp;
+     
 </div>
 
 <h2 align="center">⚒️ Tools & Utilities</h2>
 <div align="center">
-   <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+   <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="MySQL" height="40"/>
         &nbsp;&nbsp;  
 </div>
 
