@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">  
-     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="35" /></a>  
+     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>  
 </div>
 <br>
 
