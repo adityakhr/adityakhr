@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <div align="center">  
      <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>  
 </div>
-<br>
 
 
  
@@ -53,11 +52,10 @@ Here are some ideas to get you started:
      <img style="margin: 10px" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" height="30"/>
         &nbsp;&nbsp;
 </div>
-<br>
 
 <h2 align="center">⚒️ Tools & Utilities</h2>
 <div align="center">
-   <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+   <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
         &nbsp;&nbsp;  
 </div>
 
