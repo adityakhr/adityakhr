@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   -🔭 I’m currently working on my SpringBoot | Java Development<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about DSA, Java, JDBC, Hibernate, Spring, SpringBoot, MySQL, C++, JavaScript, HTML, CSS<br><br>- 📫 How to reach me <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>- 📘 Find portfolio here <a href="https://adityakhr.github.io/">Portfolio</a><br><br>- 📑 Find resume here <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">Resume</a><br><br>- 🚗 in love with Driving<br>
 
 
-<h1 align="center">🌐 Socials</h1>
+<h2 align="center">🌐 Socials</h2>
 <div align="center">  
      <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" /></a> 
      &nbsp;&nbsp;
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
  
- <h1 align="center">💻 Tech Stack</h1>
+ <h2 align="center">💻 Tech Stack</h2>
 <div align="center"> 
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="40" />
         &nbsp;&nbsp;
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
      
 </div>
 
-<h1 align="center">⚒️ Tools & Utilities</h1>
+<h2 align="center">⚒️ Tools & Utilities</h2>
 <div align="center">
    <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="40"/>
         &nbsp;&nbsp; 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
 <img style="width:320px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
@@ -82,14 +82,14 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakhr" alt="adityakhr" /></a> </p>
 
 
-<h1 align="center">⚡Contribution Graph</h1>
+<h2 align="center">⚡Contribution Graph</h2>
   <a><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakhr&theme=react-dark" /></a>
 
- <h1 align="center"> ✍️ Quote</h1>
+ <h2 align="center"> ✍️ Quote</h2>
  <div align="center">
       <a><img  style="text-align: center;"alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
  </div>
 <div align="center">
-<p align="centre"><h1>👨‍🦱 Visitors Count</h1></p>  
+<p align="centre"><h2>👨‍🦱 Visitors Count</h2></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adityakhr}/count.svg" /></p> 
 </div>
