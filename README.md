@@ -61,8 +61,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚒️ Tools & Utilities</h2>
 <div align="center">
-   <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="MySQL" height="40"/>
-        &nbsp;&nbsp;  
+   <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="40"/>
+        &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" height="40"/>
+        &nbsp;&nbsp; 
 </div>
 
 
