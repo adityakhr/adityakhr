@@ -90,6 +90,6 @@ Here are some ideas to get you started:
       <a><img  style="text-align: center;"alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
  </div>
 <div align="center">
-<p align="centre"><h2>👨‍🦱 Visitors Count</h2></p>  
+<p align="centre"><h1>👨‍🦱 Visitors Count</h1></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adityakhr}/count.svg" /></p> 
 </div>
