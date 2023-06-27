@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img align="right" src="gif/giphy.gif" style="width:400px; height:300px; margin-bottom:50px;">
-  -🔭 I’m currently working on my SpringBoot | Java Development<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about DSA, Java, JDBC, Hibernate, Spring, SpringBoot, MySQL, C++, JavaScript, HTML, CSS<br><br>- 📫 How to reach me <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>- 📘 Find portfolio here <a href="https://adityakhr.github.io/">Portfolio</a><br><br>- 📑 Find resume here <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">Resume</a><br><br>- 🚗 in love with Driving<br><br>
+  -🔭 I’m currently working on my SpringBoot | Java Development<br><br>- 🌱 I’m currently learning Java Backend Development<br><br>- 💬 Ask me about DSA, Java, JDBC, Hibernate, Spring, SpringBoot, MySQL, C++, JavaScript, HTML, CSS<br><br>- 📫 How to reach me <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>- 📘 Find portfolio here <a href="https://adityakhr.github.io/">Portfolio</a><br><br>- 📑 Find resume here <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">Resume</a><br><br>- 🚗 in love with Driving<br>
 
 
 <h2 align="center">🌐 Socials</h2>
@@ -80,13 +80,10 @@ Here are some ideas to get you started:
 <h2 align="center">⚡Contribution Graph</h2>
   <a><img alt="Aditya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adityakhr&theme=react-dark" /></a>
 
-<br> 
  <h2 align="center"> ✍️ Quote</h2>
- <br>
  <div align="center">
       <a><img  style="text-align: center;"alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></a>
  </div>
-<br>
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adityakhr}/count.svg" /></p> 
