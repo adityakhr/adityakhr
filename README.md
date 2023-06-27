@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">  
-     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" /></a>  
+     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" /></a> 
+     &nbsp;&nbsp;
+     <a href="https://www.hackerrank.com/aditya_khr1904?hr_r=1" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" /></a>
+     &nbsp;&nbsp;
 </div>
 
 
