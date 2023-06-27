@@ -36,24 +36,30 @@ Here are some ideas to get you started:
  
  <h2 align="center">💻 Tech Stack</h2>
 <div align="center">  
-     <img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="35" />
+     <img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" height="30" />
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" height="30"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" height="35"/>
+     <img style="margin: 10px" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Apache Maven" height="30"/>
         &nbsp;&nbsp;
 </div>
 <br>
+
+<h2 align="center">⚒️ Tools & Utilities</h2>
+<div align="center">
+   <img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+        &nbsp;&nbsp;  
+</div>
 
 
 <h2 align="center">📊 GitHub Stats</h2>
