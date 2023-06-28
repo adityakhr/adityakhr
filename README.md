@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  
  <h2 align="center">💻 Tech Stack</h2>
 <div align="center"> 
+     <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/78/465/png-clipart-data-structures-and-algorithms-algorithms-data-structures-programs-computer-science-others-miscellaneous-computer-science-thumbnail.png" alt="DSA" height="45" />
+        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="45" />
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
