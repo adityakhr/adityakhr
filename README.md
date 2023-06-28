@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌐 Socials</h2>
 <div align="center">  
-     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" /></a> 
+     <a href="https://linkedin.com/in/aditya-khare-1a254b1b8" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="45" /></a> 
      &nbsp;&nbsp;
-     <a href="https://www.hackerrank.com/aditya_khr1904?hr_r=1" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="40" /></a>
+     <a href="https://www.hackerrank.com/aditya_khr1904?hr_r=1" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="45" /></a>
      &nbsp;&nbsp;
 </div>
 
@@ -38,32 +38,40 @@ Here are some ideas to get you started:
  
  <h2 align="center">💻 Tech Stack</h2>
 <div align="center"> 
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="40" />
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="45" />
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="45"/>
         &nbsp;&nbsp;
      
 </div>
 
 <h2 align="center">⚒️ Tools & Utilities</h2>
 <div align="center">
-   <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="40"/>
+     <img style="margin: 10px" src="https://spring.io/img/projects/spring-tool.svg" alt="PostMan" height="45"/>
         &nbsp;&nbsp; 
-     <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" height="40"/>
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="45"/>
+        &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" height="45"/>
+        &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" height="45"/>
+        &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="45"/>
+        &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/canva/canva-original.svg" width="50px" height="45"/>
         &nbsp;&nbsp; 
 </div>
 
