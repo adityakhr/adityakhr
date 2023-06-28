@@ -73,7 +73,7 @@ Here are some ideas to get you started:
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" height="45"/>
         &nbsp;&nbsp; 
-     <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="45"/>
+     <img style="margin: 10px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" height="45"/>
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/canva/canva-original.svg" width="50px" height="45"/>
         &nbsp;&nbsp; 
