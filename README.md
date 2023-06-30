@@ -61,7 +61,7 @@ Here are some ideas to get you started:
      
 </div>
 
-<h2 align="center">⚒️ Tools & Utilities</h2>
+<h2 align="center">⚒️ Tools</h2>
 <div align="center">
      <img style="margin: 10px" src="https://spring.io/img/projects/spring-tool.svg" alt="STS" height="45"/>
         &nbsp;&nbsp; 
