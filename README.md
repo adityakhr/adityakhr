@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
-<img style="width:320px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
+<img style="width:330px;" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakhr&theme=dark&hide_border=false" />
 
 <img style="width:190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakhr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
