@@ -41,8 +41,6 @@ Here are some ideas to get you started:
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="45" />
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
-        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="45"/>
@@ -50,6 +48,8 @@ Here are some ideas to get you started:
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="45"/>
+        &nbsp;&nbsp;
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="45"/>
         &nbsp;&nbsp;
