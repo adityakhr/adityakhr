@@ -51,6 +51,8 @@ Here are some ideas to get you started:
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
         &nbsp;&nbsp;
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="C++" height="45"/>
+        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" height="45"/>
@@ -72,6 +74,8 @@ Here are some ideas to get you started:
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" height="45"/>
         &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" height="45"/>
+        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" height="45"/>
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/canva/canva-original.svg" width="50px" height="45"/>
