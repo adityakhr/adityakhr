@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learnin
 - 👯 I’m looking to collaborat
-
 - 🤔 I’m looking for help wit\
 - 💬 Ask me about ...
 - 📫 How to reach me:
