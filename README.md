@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learnin
 - 👯 I’m looking to collaborat
 - 🤔 I’m looking for help wit\
-- 💬 Ask me about ...
+- 💬 Ask me about ..
 - 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fn fact:\\\
