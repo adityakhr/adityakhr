@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborat
 - 🤔 I’m looking for help wit\
 - 💬 Ask me about ..
-- 📫 How to reach me:
+- 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fn fact:\\\
 -->
