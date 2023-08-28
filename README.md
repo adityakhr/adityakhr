@@ -5,7 +5,7 @@
 Here are some ideas to get yo:
 - 🔭 I’m currently workin
 - 🌱 I’m currently learn
-- 👯 I’m looking to collaborat
+- 👯 I’m looking to 
 - 🤔 I’m looking for help wit\
 - 💬 Ask me about ..
 - 📫 How to reach me
