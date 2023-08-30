@@ -6,7 +6,7 @@ Here are some ideas to get yo
 - 🌱 I’m currently learn
 - 👯 I’m looking to 
 - 🤔 I’m looking for help wit\
-- 💬 Ask me about ..
+- 💬 Ask me about 
 - 📫 How to reach 
 - 😄 Pronouns: .
 - ⚡ Fun fact:-->
