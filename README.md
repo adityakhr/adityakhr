@@ -72,7 +72,7 @@ Here are some ideas to get yo
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" height="45"/>
         &nbsp;&nbsp; 
-     <img style="margin: 10px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" height="45"/>
+     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="VSCode" height="45"/>
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" height="45"/>
         &nbsp;&nbsp;
