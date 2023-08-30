@@ -43,7 +43,7 @@ Here are some ideas to get yo
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="45"/>
+     <img style="margin: 10px" src="https://pic.onlinewebfonts.com/thumbnails/icons_335846.svg" alt="JDBC" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="45"/>
         &nbsp;&nbsp;
@@ -68,6 +68,8 @@ Here are some ideas to get yo
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="45"/>
         &nbsp;&nbsp; 
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Apache Maven" height="45"/>
+        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="Swagger" height="45"/>
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/JRaghu842/JRaghu842.github.io/blob/main/images/vs_code.png" height="45"/>
