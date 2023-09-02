@@ -5,7 +5,7 @@
 Here are some ideas to get yo
 - 🌱 I’m currently learn
 - 👯 I’m looking to
-- 🤔 I’m looking for help wit\
+- 🤔 I’m looking for helpit\
 - 💬 Ask me about 
 - 📫 How to reach 
 - 😄 Pronouns:
