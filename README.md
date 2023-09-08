@@ -2,7 +2,7 @@
 <!--
 **adityakhr/adityakhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get y
+Here are some ideas to get 
 - 🌱 I’m currently learn
 - 👯 I’m looking
 - 🤔 I’m looking for helpit
