@@ -19,7 +19,7 @@ Here are some ideas to get
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img align="right" src="gif/giphy.gif" style="width:400px; height:300px;">
-  -🔭 I’m currently working on Spring Boot | Angular<br><br>- 🌱 I’m currently learning Java BackEnd Development<br><br>- 💬 Ask me about DSA, Java, JDBC, Hibernate, Spring, Spring Boot, Spring Security, MySQL, C++, JavaScript, HTML, CSS<br><br>- 📫 How to reach me <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>- 📘 Find portfolio <a href="https://adityakhr.github.io/">here</a><br><br>- 📑 Find resume <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">here</a><br><br>🚗 Fun fact: In love with Driving<br>
+  -🔭 I’m currently working on Spring Boot | Angular<br><br>- 🌱 I’m currently learning Java BackEnd Development<br><br>- 💬 Ask me about DSA, Java, JDBC, Hibernate, Spring, Spring Boot, Spring Security, MySQL, C++, JavaScript, HTML, CSS<br><br>- 📫 Reach me by <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>- 📘 Find portfolio <a href="https://adityakhr.github.io/">here</a><br><br>- 📑 Find resume <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">here</a><br><br>🚗 Fun fact: In love with Driving<br>
 
 
 <h2 align="center">🌐 Socials</h2>
