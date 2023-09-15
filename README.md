@@ -36,6 +36,8 @@ Here are some ideas to get
 <div align="center"> 
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="45" />
         &nbsp;&nbsp;
+     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
+        &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate" height="45"/>
@@ -43,8 +45,6 @@ Here are some ideas to get
      <img style="margin: 10px" src="https://pic.onlinewebfonts.com/thumbnails/icons_335846.svg" alt="JDBC" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="45"/>
-        &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45"/>
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="45"/>
         &nbsp;&nbsp;
