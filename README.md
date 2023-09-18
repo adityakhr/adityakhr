@@ -4,7 +4,7 @@
 Here are some ideas to 
 - 🌱 I’m currently 
 - 👯 I’m looking
-- 🤔 I’m looking for
+- 🤔 I’m looking 
 - 💬 Ask me abou
 - 📫 How to reach 
 - 😄 Pronou
