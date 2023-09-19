@@ -54,7 +54,7 @@ Here are some ideas to
         &nbsp;&nbsp;
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" height="45"/>
         &nbsp;&nbsp;
-     <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-flowchart-8563685-7069986.png" alt="DSA" height="45" />
+     <img style="margin: 10px" src="https://adityakhr.github.io/image/DSA.svg" alt="DSA" height="45" />
         &nbsp;&nbsp;
      
 </div>
@@ -63,7 +63,7 @@ Here are some ideas to
 <div align="center">
      <img style="margin: 10px" src="https://spring.io/img/projects/spring-tool.svg" alt="STS" height="45"/>
         &nbsp;&nbsp; 
-     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="45"/>
+     <img style="margin: 10px" src="https://adityakhr.github.io/image/IntelliJ.svg" alt="IntelliJ" height="45"/>
         &nbsp;&nbsp; 
      <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="PostMan" height="45"/>
         &nbsp;&nbsp; 
