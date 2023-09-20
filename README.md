@@ -110,5 +110,5 @@ Here are some ideas to
 </div>
 
 <div align="center">
-     <h2 style="color:red;">...Thanks for visiting...</h2>
+     <h2>...Thanks for visiting 🤝...</h2>
 </div>
