@@ -108,5 +108,4 @@ Here are some ideas to
 <div align="center"> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adityakhr}/count.svg" /></p> 
 </div>
-
-     <h2 align="center" >Thanks for visiting</h2>
+<p align="center">Thanks for visiting</p>
