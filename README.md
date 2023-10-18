@@ -18,7 +18,7 @@ Here are some ideas to
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img align="right" src="gif/giphy.gif" style="width:400px; height:300px;">
+  <img align="right" src="gif/giphy.gif" style="width:350px; height:220px;">
   <!-- -🔭 I’m currently working on Spring Boot | Angular<br><br>- 🌱 I’m currently learning Java BackEnd Development<br><br> -->💬 Ask me about Java, JDBC, Hibernate, Spring, Spring Boot, Spring Security, MySQL, C++, JavaScript, HTML, CSS<br><br>📫 Reach me by <a href="mailto:Aditya.khr1904@gmail.com" >Aditya.khr1904@gmail.com</a><br><br>📘 Find my portfolio <a href="https://adityakhr.github.io/">here</a><br><br>📑 Find my resume <a href="https://drive.google.com/file/d/1eYN53SgKZ7bet7Z9TvNZBInMICiZH8p0/view?usp=share_link">here</a><br><br><!--🚗 Fun fact: In love with Driving<br>-->
 
 
